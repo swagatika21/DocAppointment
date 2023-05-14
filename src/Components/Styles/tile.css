@@ -1,0 +1,19 @@
+.mainTile {
+    display: flex;
+    margin: 5px 0;
+    border: 0.5px solid #DBDFEA;
+    border-radius: 35px;
+    background-color: #F1F6F9;
+
+}
+.hilightTile
+{
+    color: white;
+    background-color:  #4C4C6D;
+}
+
+.tile {
+    width: 140px;
+    height: 25px;
+    text-align: center;
+}

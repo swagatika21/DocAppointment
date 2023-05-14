@@ -1,0 +1,19 @@
+.buttonBody {
+    padding: 5px 35px;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: #03C988;
+    margin-top: 50px;
+    margin-left: 10px;
+
+}
+
+.buttonBody:hover {
+    cursor: pointer;
+    background-color: #040f1b ;
+    color: white;
+}
+
+.textStyle {
+    font-weight: 500;
+}

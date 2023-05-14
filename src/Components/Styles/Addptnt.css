@@ -1,0 +1,56 @@
+
+
+   .inpField {
+
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+  }
+  
+  .inputStyle {
+    padding: 2px 6px;
+    border-width: 6px;
+  }
+  
+  .main {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+  
+  .mainHead {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .fieldHead {
+    font-size: large;
+    font-weight: 500;
+    justify-self: flex-start;
+    width: fit-content;
+    padding-bottom: 10px;
+  }
+  
+  .formsData {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 15px;
+    margin-top: 20px;
+  }
+  
+  .secButton {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .tableHead {
+    /* padding: 5px 90px 5px 0;
+    */
+    width: 140px;
+    text-align: center;
+  }
+  
+  .tile.selected {
+    background-color: #020914; /* Change this color to your desired highlight color */
+  }
